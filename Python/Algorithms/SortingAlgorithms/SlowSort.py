@@ -1,9 +1,6 @@
 """
     This slowSort is inplace sorting algorithm for an list of integer
-    The idea behind it is, 
-        it divides an input list into two half, call itself into two half. and then compairs the maximum element
-        of the two half. It store the maximum element of the subarray at the top of the position
-        of the sub array . then it recursively call the subarray without the maximum elements. 
+    The idea behind it is, it divides an input list into two half, call itself into two half. and then compairs the maximum element of the two half. It store the maximum element of the subarray at the top of the position of the sub array . then it recursively call the subarray without the maximum elements. 
     
 """
 
